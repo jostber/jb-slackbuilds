@@ -3,7 +3,7 @@ jb-slackbuilds
 
 Updated SlackBuilds for Slackware 14.2 maintained by Jostein Berntsen.
 
-Slackbuilds for Jostein:
+Slackbuilds for Jostein Berntsen:
 
 PRGNAM="arrow" : VERSION="0.15.2"
 PRGNAM="axel" : VERSION="2.17.10"
@@ -41,4 +41,3 @@ PRGNAM="vimpc" : VERSION="0.09.1"
 PRGNAM="watson" : VERSION="1.8.0"
 
 Total: 34
-
